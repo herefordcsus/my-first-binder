@@ -1,4 +1,4 @@
-﻿Genus,Species,Family,Illegally_Hunted,Threat_status,Adult_weight,Age_first_birth,Age_maturity,Gestation.length,Interbirth_interval,Group_size,GeographicRange_km2,HomeRange_km2,MaximumLongevity_months,PopulationDensity_km2,MeanHumanPopulationDensity_km2,2003GrossNationalIncome_US$,MatingSystem,Diet,HabitatBreadth
+﻿Genus,Species,Family,Illegally_Hunted,Threat_status,Adult_weight,Age_first_birth,Age_maturity,Gestation.length,Interbirth_interval,Group_size,GeographicRange_km2,HomeRange_km2,MaximumLongevity_months,PopulationDensity_km2,MeanHumanPopulationDensity_km2,GrossNationalIncome,MatingSystem,Diet,HabitatBreadth
 Addax,nasomaculatus,Bovidae,No,Threatened,94700,1066.86,NA,262.74,360,12.63,1168709,NA,308.04,0.06,1.5,9624.69,NA,Specialist,2
 Aepyceros,melampus,Bovidae,Yes,Threatened,52300,730,394.42,196.75,365,15.25,3926869,1.99,213,13,37.6,14962.72,Polygamous,Generalist,4
 Alcelaphus,buselaphus,Bovidae,Yes,Threatened,164000,927.71,696.84,242.67,345.5,20,5580395,2.75,240,3.39,29.89,11483.09,Polygamous,Specialist,4
